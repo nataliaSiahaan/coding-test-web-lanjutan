@@ -18,5 +18,7 @@ function hitungkarakter(str){
     return hasil;
 }
 const input1 = "aabbbcc";
+const input2 = "hello";
 
 console.log(hitungkarakter(input1));
+console.log(hitungkarakter(input2));
